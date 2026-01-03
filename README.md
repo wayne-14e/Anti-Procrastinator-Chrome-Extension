@@ -62,17 +62,14 @@ Key principles:
    ```bash
    git clone https://github.com/your-username/anti-procrastinator.git
 2. Open Google Chrome and go to: `chrome://extensions/`
-3. Enable ==Developer mode== using the toggle in the top-right corner.
-4. Click ==Load unpacked==.
+3. Enable *Developer mode* using the toggle in the top-right corner.
+4. Click *Load unpacked*.
 5. Select the project folder.
 6. The extension will now appear in your Chrome toolbar.
 7. Don't forget to pin it!
 
 ---
 
-## ⚙️ How to Use
-
-```md
 ## ⚙️ How to Use
 
 1. Open the extension popup from the Chrome toolbar.
